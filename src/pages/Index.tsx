@@ -30,9 +30,9 @@ const Index = () => {
       <WhyChooseUs />
       {/* <ProgramsSection />
       <FreeTrialBanner />
-      <TrainersSection />
+      <TrainersSection /> */}
       <GallerySection />
-      <PricingSection />
+      {/* <PricingSection />
       <TestimonialsSection />
       <ScheduleSection />
       <EquipmentSection />
